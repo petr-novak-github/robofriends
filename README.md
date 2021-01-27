@@ -1,2 +1,3 @@
 # robofriends
-App created according andreis tutorial.
+App created according Udemy tutorial using React.js.
+
